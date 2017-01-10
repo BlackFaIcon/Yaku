@@ -1,7 +1,13 @@
 Plan :
+
 - Origine :
-  | Hide and Shriek | Jeu d'action vidéal |
+  | Hide and Shriek : 1V1 | Paterforme / Action |
+  
  - Objet de l'étude :
   | Apprendre développer jeu 3D | Méchanismes | Multijoueur | Apprendre les étapes de la création d'un projet |
+  
  - Etat de l'art :
+  | a completer | Dynamique | Fun | Competitif | Loot | Précision | Dextérité |
+  
+ - Découpage du projet :
   | 
