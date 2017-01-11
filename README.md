@@ -5,4 +5,5 @@ Deux joueur s'affronte sur une map et collecter le plus vite des objets avant l'
 1 ere personne
 Map : interieur
 Random spawn objet, random objet
-Classe au debut de la game(pas meme objet)
+Classe au debut de la game(pas meme objet)fdwfdwfwdxf
+
